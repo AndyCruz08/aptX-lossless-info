@@ -1,0 +1,889 @@
+CmfbPRPDAnalysis_Create
+aptX3Encode_Destroy
+__cxa_finalize
+axBlock_R3_FIX
+AxEstSBlk
+AxAutoCorrelationShift
+AxGetBitSize
+AxBitBuffer_SetBuf
+AxCompressorRun
+AxCompressorResetTools
+aptX3Encode_ForceResync
+AxHist_GolombRiceEncode
+nMaxBitsCfg0_8Band_96k_600
+AxBitWr8BS1_Flush
+AxBitWr_Write
+aptX3Encode_GetCurrentParameters
+aptXEncode_cast
+g_FixedO1
+g_FixedO2
+AxGetFramerType
+g_FixedO3
+g_FixedO4
+nu_dq4bit16
+aptXEncode_GetCompression
+nMaxBitsCfg0_8Band_96k_700
+AxEncoderSetCfg_do
+g_FrameTypeMap
+AxPrint2Report
+AxPacker_setupmemory
+axOnce
+AxPackerCfg04_WriterBitAllocation_Extender
+AxEncodeSetupInputAudioBlockQueued
+nMaxBitsCfg0_8Band_96k_Max
+AxCoreInit
+__hexagon_divsf3
+nu_q7incr16
+axOnceRelease
+AxComposerWritePredictorInfo
+aptXEncode_BitPoolAdjust
+AxBitBuffer_read64
+BitAllocOffsetTable
+AxMulSubSatIntS32
+aptX3Encode_GetVersion
+axCompressorSetCompression
+axCWMs_t
+axBlock_TRUK_LPC
+memcpy
+AxUBitCnt
+aptX3Encode_SetBitRate
+AxCompressor_RunQuantStrategy
+nu_q2incr16
+AxMulAddSatIntS32
+AxWriteOverlapLen
+g_aSelectConfig_lowLatency
+g_aSelectConfig_Lossless_48
+AxBuf32Clear
+axComputeLpCoefficientsFwd
+g_aPacker_cfg0_Tables_cfg0BitAlloc_8Band
+AxWriteUExGR
+nu_dq5bit16
+g_pReportCB
+__hexagon_divsi3
+getQTableVal
+aptX3SetReportCB
+aptX3Encode_SetBER
+AxConvDataToBuf
+AxFramerSetCfg
+AxCalcScaleFactor
+AxFramerWr2Pkt
+AxBitWr8BS1_PointerUpdate
+AxPackerCfg04_WriterBitAllocation
+AxCompressorProcess
+AxWriteExGRK
+AxCoreCleanUp
+__hexagon_divdi3
+aptXEncode_Flush
+AxBlockR3Q
+AxBitAlloc_OnPktSizeChg
+AxConvergentRound
+AxBufMoveWithLimit
+AxBitAlloc_Run_MonoMusic_96k
+AxFramerCreate
+aptXEncode_BitPool_OverlapBits
+g_aSelectConfig_HighQuality_48
+g_aPacker_cfg0_HuffHL2Bit2Sqe_0
+nu_q8incr16
+vsnprintf
+AxHist_calK
+AxCWBuf_Reset
+AxFramerBegain
+AxBufClear
+axCompressorSetTotalBands
+AxComposerWriteChunkSize
+BitAllocOffsetToneTable
+AxSatRoundAcc
+_init
+nu_dq6bit16
+AxR3Quantizer_Run
+AxCalcScaleFactorQSign
+CmfbPRPDAnalysisFilter8Bands
+nu_q3incr16
+aptX3Encode_SetCompression
+aptXEncode_CheckConfig
+g_axPackerCfg0ComposerTable
+AxHist_GolombRiceCalKCost
+g_aPacker_cfg0_HuffBitAlloc_0_1
+AxComposerWriteChunkSize2
+aptx3EncoderBuildVersion
+g_aPacker_cfg0_HuffEcstasy_32_2_sqe_K0_0
+AxStandardDeviation
+AxBuf32Init
+aptX3Encode_Create
+AxLpcComputeLpCoefficients_32bFixPt
+isHexagonCycleCountingOn
+AxSubSatS32
+aptX3Init
+AxHist_AddAry
+AxCompressorC08Run
+g_aSelectConfig_ULL
+encodeConfigCtrl_SelectConfig
+aptX3Encode_GetConfig
+aptXEncode_OnPacketComplete
+CmfbPRPD_GetCoefs
+AxGetMaxBit
+AxR3Quantizer_DeltaWarmup
+__hexagon_udivsi3
+AxGRiceSetup
+AxFramerWrPadding
+aptX3Encode_GetOverLap
+AxAnalysisScaleFactors
+AxR3CalDeltaLog
+aptX3Encode
+nu_q9incr16
+AxEntropySearch
+AxPackerCfg0_RunAudio_Packet_alignment
+g_aPacker_cfg0_HuffBitAlloc_2_3
+nu_dq7bit16
+AxEncCfgMgtSetCfg
+AxWriteK
+AxR3Quantizer_Setup
+nu_q4incr16
+AxBitRd_LoadN
+AxEntropyComposerGRice_C10
+AxMulSatS32U32
+AxAddSatS32
+AxSatIntRmS64DivS32
+axBlock_R3_LPC
+axBlock_TRUK
+axDo_Block_BACK_clear
+AxBufMove
+AxComQr3
+axCompressorR3QuantizerReset
+CmfbPRPD_RunDCT2_N8
+AxCompressorOnChunkComplete
+g_aPacker_cfg0_HuffMindwarp_32_7_sqe_k3_1
+AxEntropyComposerHuff_TID0
+__register_frame_info_bases
+AxSetupDigitalBlack
+axBlock_TRUK_Fix
+axComputeLpCoefficientsBack
+aptX3Destroy
+AxHuffTableSetup
+__hexagon_memcpy_likely_aligned_min32bytes_mult8bytes
+aptX3Encode_SetProfileMode
+aptX3Encode_GetAnalysisProcessed
+nu_dq8bit16
+axFixPredictor_findBestPredictor
+CMFB_PRPD_Proto_Sym_256Tap_50PcOL
+AxTmpHistorySetup
+axBlockCostQ
+__DTOR_LIST__
+__hexagon_moddi3
+AxBufInit
+nu_logTable
+nu_dq2bit16
+AxEstUExGR
+AxR3CalDelta
+AxWriteUExGRK
+nu_q5incr16
+BitAllocOffsetTableWS9
+AxArithmeticRoundS32
+axCompressorLPCReset
+AxUnPacker_Load8BS1
+AxEncCfgMgtSwitch
+g_aSelectConfig_lowPower
+aptXEncode_BitPoolClearSmoothedCompression
+AxBitBufferGetUnWrote
+__cxa_finalize_stub
+__CTOR_END__
+axCapExchange_Process
+__dso_handle
+AxFramerBuildExtendedPacket
+aptX3Encode_GetDlistV30
+g_aPacker_cfg0_HuffLlevame_con_tu_babalao_48000_22_3_sqe_K0
+AxMulSatS32
+AxEntropyComposerGRiceWrite
+AxBitBufferMove
+memset
+AxCompressorChunkThresholdUpdate
+AxBitAlloc_Run_MonoMusic
+nu_dq9bit16
+SizeofAptX3Scratch
+AxCompressorReset
+aptX3Encode_SetMarker
+AxComInit
+g_pAxCoreLib
+AxConvergentRoundS32
+AxFramerWrOLAHdr
+AXGR_LIMITQUOTIENTWITHWORDSIZE
+nMaxBitsCfg0_8Band_96k_240
+AxCompressorSetCfg
+axBitCount64
+SizeofAptX3Encode
+nu_dq3bit16
+AxBitBufferGetUnRead
+axCompressorSetCompression_do
+AxLpcComputeAutocorrelation_32bFixPt
+_fini
+AxBlockQTrunk_ResyncPoint
+CMFB_PRPD_Proto_Sym_128Tap_50PcOL
+AxR3Quantizer_DeltaUpdate
+AxPacker_buildStructure
+AxCompressorCreate
+AxWritePadding
+nu_q6incr16
+nMaxBitsCfg0_8Band_96k_500
+nMaxBitsCfg0_8Band_96k_420
+axCompressorCMFBReset
+AxSatAShiftAccS64
+axCompressorR3QuantizerWarmup
+AxBitRd_LoadFRomTail
+__hexagon_umodsi3
+AxSetUpSwitches
+AxSatFracS64DivS32
+libgcc.so
+libaptXAdaptiveEnc-shared.so
+0S(HB
+u*X \
+bp"J
+@`p0
+B$n@
+u0H \
+E@uDI \"T02
+0:2}
+qp&@
+ b1s pM
+[ b2s
+@`p 
+@qpm@
+A<	@
+@`p.
+.>x@
+@`pJ@
+@ \2@
+Ru#J
+pCQB
+@rpm@
+@ppm@
+0Gn@
+rp^{
+@apg
+oIc@
+@fpn@
+1Gn@
+Z<2@
+@`p0
+@wpu
+n>xA
+@`pf@
+Q<BC
+Q<"y
+Q<r@
+Q<	@
+@`pB<
+spCA
+@CvD
+u0Y \
+@tpBC
+Q<D@
+bp"J
+@B<b
+@`p@
+cJD@3
+VIj4B
+spCS
+@`p 
+xA` ~
+@qpm@
+ZIjZ
+`	@cp
+ \(@
+R @$
+ppnp
+@bp 
+Lu	@
+IjrA \
+HIjh
+x:A \
+TIj,
+RIj"
+`'s^
+@dp	
+I`)t
+ \/L
+:!@Ou
+@OuE`%t"
+hu	`
+	@ep
+dA ~
+E ~P
+~cu8Y
+B \#0
+ ~ @
+x#3',
+D1G 
+ \(E
+@cpF0u0
+I \33
+31D 
+@FuV`6t
+U1D 
+@FuV`6t"
+@`p 
+@upyB
+P9WB
+n>xA
+`#s@
+`#s@
+ ABu
+\&@ \(
+HIjBH@
+D1E #@
+PIjdE
+#CAv
+GF@C
+?0PC@
+E0s)%A
+D1G E
+U3D1&A
+ADv,d
+@spx@
+`2sg
+x@X \
+JIj0
+@rpx@
+xDY \
+f3U1'A
+B!B@
+B$J@
+D$3C
+ @Eu
+db:B
+.>x@
+CCvb@
+@<CB
+@<>@ \
+@?%C
+@<DC
+@<%@
+:@ \
+$v%@
+2"c@
+ACvd@
+@<DC
+@<%@
+<@ \
+$v%@
+#s@F
+ \DH
+R>b@
+@`p 
+D$2@
+ `0s"@
+D$4@
+@bp#@
+D$4@
+2sjZ
+ \)L
+np.@
+G<$@
+@ \dA
+@vp!@
+Q<m@
+@ep&
+@wp$
+a@Su$q
+A \%
+ev&A
+@ \<
+@ip	
+np-L
+H<-L
+@	u(I
+4")@
+P<l@
+@dpA@
+@5tM
+a@Wu$p
+A \%
+0A-vU
+BIjz
+ev&A
+@ \<
+@ip	
+np-L
+H<-L
+@	u(I
+4")@
+oGx	
+:	BI
+:	BI
+:	BI
+:	BI
+CBv)<
+%<GB
+@Ev%
+@yp"G
+F D 
+0	(4Q
+@ \<
+@ip	
+np-L
+H<:@
+H<-L
+@	u*H
+4")@
+@ \!
+|p/N
+L<:@
+L</N
+4"-@
+3Ca@
+CCv<@ \$
+A(H)
+@ \ 
+lp.M
+I<<@
+I<.M
+4",@
+&>X@
+@E<F
+t*H \
+3CDB
+@P<L
+P<[A
+B<~L
+-1/LL
+2<WZ
+ep L
+x"<DLHK
+-1/2
+`Bs<A
+&0%0@@
+3s#@
+ \B@
+@"t8
+B<BH
+S<*A
+2"b@
+B""A
+r$2@
+`Bs<A
+@upS<
+1I "@
+ip	@hp`
+:"A \
+@cp0
+_&t"
+ A \
+@gp&
+u0b0
+^<iL
+	@`p#
+0@ \
+`#t#
+@ap 
+~8@ \
+	G5:
+ap)@
+w1E 
+rphC
+[!32(P
+`bs"
+[ `1s"
+S": 
+@qpb@
+!8AX
+qp C
+ `2s
+"`3s
+["`3s
+]>6A
+xe*@lN
+@`pJ@
+@qpb` ~$
+(C@B
+@`pP
+H0CD
+@Mu'@
+@`p#@
+	xJ@
+#T	xI@
+	@!~
+P9*`
+1s\|
+ppX@
+P9t0
+"T	x
+@`p0
+P9d0
+(C(J@
+_ ~@A
+~@A ~
+:dEC
+@`p0
+@rp	0
+@hp	I#
+cua@Au
+@`pp
+` ~T
+&`DB
+@Mu'@
+1s+A
+@hp	I#
+a@Au
+V	x4
+@pp-
+&>X@
+@pp-
+&>X@
+D>:@
+ \"C
+	`/@
+*A \/
+A \+
+np<O
+A)`J
+@Mu,
+D$0@ \
+H?H@
+@BHu
+cp'A
+@bpT@
+@xp`
+Uu5`
+->v@
+@`pP
+XB \
+Wu7`
+@ap&
+@qp0P
+@qp0P
+APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9
+				
+				
+																
+				
+				
+&P*|^
+&[*o!
+uResyncPointForceUser Setting 0x%lx
+uResyncPointForceUser Clearing 0x%lx
+QuIC LLVM Hexagon Clang version 8.2.03 (based on LLVM 5.0.0git-42babe2)
+QuIC LLVM Hexagon Clang version Linker 5.0
+.dynsym
+.dynstr
+.hash
+.rela.dyn
+.rela.plt
+.init
+.plt
+.text
+.fini
+.rodata
+.eh_frame
+.data.rel.ro
+.ctors
+.dtors
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.comment
+.shstrtab
+.symtab
+.strtab
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/aptXAdaptiveEncode.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/aptXAdaptiveNoLicensing.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/configControl/axEncodeConfigControl.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/configControl/axEventHndEncode_voice.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/configControl/axEventHndEncode_default.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/configControl/axEncodeCfgMgt_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axMath/axOps.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axMath/axOps32b.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axMath/axMath.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/bitAllocLoudness/axTransientDetection_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/bitAllocLoudness/axBitAllocLoudness.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/bitAllocLoudness/axBitAllocLoudnessEncode.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/bitAllocNN/axBitAllocSoftmaxMono.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/capExchange/axCapExchange.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/capExchange/axCapExchangeEncode.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/cmfb/axCmfbPRPD.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/cmfb/axCmfbPRPDAnalysis.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/quantizationNU/axQuantTablesNU.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/quantizationNU/axR3Quantizer.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/quantizationNU/axR3QuantizerCom.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/packer_cfg0/axFramerTID0.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/packer_cfg0/axPacker_cfg0_EntropyHdrWriter_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/packer_cfg0/axPacker_TID0_common.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/packer_cfg0/axPacker_cfg0_Tables.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/packer_cfg0/axBitBuffer_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/packer_cfg0/axBitBuffer_enc.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/packer_cfg0/axTableDeserialisePacker.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axCompressorC08.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axBlockLPC.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axFixPredictor.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axQToolSearch_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axComposer_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axCompressor_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axEntropySearch.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axCRC8_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axCRC8Enc_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axSFAnalysis_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axCWBuffer_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/compressor/axGRHistogram_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axBuf_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axCore.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axCritical_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axData.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axErr_t.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axMemCpy.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axOnce.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axPortability.c
+/local/mnt/workspace/CRMBuilds/APTX.ADAPTIVE.3.0-00001-SPF-HEX-V66-SDK-4-2-0-C8.CLHDADVO.BIN-9_20210924_073739/b/src/axCore/axPrint2Report.c
+OneTimeInit
+CmfbAnalysis_RunPrototypeFilter_256tap
+CmfbAnalysis_RunPrototypeFilter_128tap
+nMaxBitsCfg0_8Band_250
+nMaxBitsCfg0_8Band_320
+nMaxBitsCfg0_8Band_370
+nMaxBitsCfg0_8Band_420
+nMaxBitsCfg0_8Band_520
+s_DclSubVersion30
+.L.str
+.L.str.1
+__EH_FRAME_BEGIN__
+__EH_FRAME_END__
+cmfbAnlysFilterCoeffsLUT
+__CTOR_LIST__
+__DTOR_END__
+_GLOBAL_OFFSET_TABLE_
+s_OneTimeInit
+s_eInitErr
+__cxa_finalize
+memcpy
+vsnprintf
+__register_frame_info_bases
+memset
+_init
+__cxa_finalize_stub
+__dso_handle
+aptXEncode_cast
+aptX3Encode_SetBER
+aptXEncode_BitPoolClearSmoothedCompression
+AxBitAlloc_OnPktSizeChg
+aptXEncode_GetCompression
+aptXEncode_CheckConfig
+AxEncCfgMgtSwitch
+aptXEncode_BitPool_OverlapBits
+aptXEncode_BitPoolAdjust
+AxEncoderSetCfg_do
+aptXEncode_OnPacketComplete
+AxEncodeSetupInputAudioBlockQueued
+aptXEncode_Flush
+aptX3Encode_GetAnalysisProcessed
+aptX3Encode_GetOverLap
+aptX3Encode
+__hexagon_memcpy_likely_aligned_min32bytes_mult8bytes
+__hexagon_divdi3
+__hexagon_divsi3
+AxPacker_setupmemory
+AxPacker_buildStructure
+SizeofAptX3Encode
+SizeofAptX3Scratch
+AxEncCfgMgtSetCfg
+aptX3Encode_Create
+aptX3Encode_Destroy
+aptX3Encode_SetProfileMode
+aptX3Encode_GetCurrentParameters
+aptX3Encode_GetConfig
+aptX3Encode_SetBitRate
+aptX3Encode_SetCompression
+aptX3Encode_ForceResync
+aptX3Encode_SetMarker
+aptX3Encode_GetVersion
+aptX3Init
+aptX3Destroy
+encodeConfigCtrl_SelectConfig
+AxSatRoundAcc
+AxConvergentRound
+AxConvergentRoundS32
+AxArithmeticRoundS32
+AxAddSatS32
+AxSubSatS32
+AxMulSatS32
+AxMulSatS32U32
+AxSatAShiftAccS64
+AxMulAddSatIntS32
+AxMulSubSatIntS32
+AxSatIntRmS64DivS32
+AxSatFracS64DivS32
+axBitCount64
+AxBitAlloc_Run_MonoMusic
+AxBitAlloc_Run_MonoMusic_96k
+aptX3Encode_GetDlistV30
+axCapExchange_Process
+CmfbPRPD_RunDCT2_N8
+__hexagon_moddi3
+CmfbPRPD_GetCoefs
+CmfbPRPDAnalysisFilter8Bands
+CmfbPRPDAnalysis_Create
+__hexagon_udivsi3
+isHexagonCycleCountingOn
+AxR3Quantizer_Run
+__hexagon_umodsi3
+__hexagon_divsf3
+AxR3CalDeltaLog
+AxR3CalDelta
+AxR3Quantizer_Setup
+getQTableVal
+AxR3Quantizer_DeltaUpdate
+AxR3Quantizer_DeltaWarmup
+AxWriteOverlapLen
+AxPackerCfg0_RunAudio_Packet_alignment
+AxFramerBuildExtendedPacket
+AxFramerWr2Pkt
+AxFramerWrPadding
+AxFramerBegain
+AxFramerWrOLAHdr
+AxWritePadding
+AxGetFramerType
+AxFramerCreate
+AxFramerSetCfg
+AxPackerCfg04_WriterBitAllocation_Extender
+AxPackerCfg04_WriterBitAllocation
+AxUnPacker_Load8BS1
+AxBitRd_LoadFRomTail
+AxBitRd_LoadN
+AxBitBuffer_SetBuf
+AxBitWr_Write
+AxBitBufferMove
+AxBitBufferGetUnRead
+AxBitBuffer_read64
+AxBitBufferGetUnWrote
+AxBitWr8BS1_PointerUpdate
+AxBitWr8BS1_Flush
+AxWriteUExGR
+AxWriteExGRK
+AxWriteUExGRK
+AxCalcScaleFactorQSign
+AxBlockR3Q
+AxUBitCnt
+AxBlockQTrunk_ResyncPoint
+AxTmpHistorySetup
+axBlock_R3_LPC
+axBlock_R3_FIX
+axBlockCostQ
+AxGRiceSetup
+axBlock_TRUK_LPC
+axBlock_TRUK
+axBlock_TRUK_Fix
+axDo_Block_BACK_clear
+axComputeLpCoefficientsBack
+axComputeLpCoefficientsFwd
+AxCompressor_RunQuantStrategy
+AxComInit
+AxComQr3
+AxCompressorResetTools
+AxCompressorC08Run
+AxAutoCorrelationShift
+AxLpcComputeAutocorrelation_32bFixPt
+AxLpcComputeLpCoefficients_32bFixPt
+axFixPredictor_findBestPredictor
+AxWriteK
+AxHuffTableSetup
+AxComposerWritePredictorInfo
+AxComposerWriteChunkSize
+AxComposerWriteChunkSize2
+AxEntropyComposerHuff_TID0
+AxEntropyComposerGRiceWrite
+AxEntropyComposerGRice_C10
+AxCompressorReset
+AxCompressorCreate
+AxGetBitSize
+AxStandardDeviation
+AxCalcScaleFactor
+AxCompressorOnChunkComplete
+axCompressorSetTotalBands
+axCompressorLPCReset
+axCompressorCMFBReset
+axCompressorR3QuantizerReset
+axCompressorR3QuantizerWarmup
+AxCompressorSetCfg
+axCompressorSetCompression
+AxCompressorChunkThresholdUpdate
+axCompressorSetCompression_do
+AxSetUpSwitches
+AxAnalysisScaleFactors
+AxSetupDigitalBlack
+AxCompressorProcess
+AxCompressorRun
+AxEstUExGR
+AxEstSBlk
+AxGetMaxBit
+AxEntropySearch
+AxCWBuf_Reset
+AxHist_AddAry
+AxHist_GolombRiceEncode
+AxHist_GolombRiceCalKCost
+AxHist_calK
+AxBufMove
+AxBufInit
+AxBuf32Init
+AxBufClear
+AxBuf32Clear
+AxBufMoveWithLimit
+AxCoreInit
+AxCoreCleanUp
+AxConvDataToBuf
+axOnce
+axOnceRelease
+aptX3SetReportCB
+AxPrint2Report
+_fini
+g_aSelectConfig_ULL
+g_aSelectConfig_lowLatency
+g_aSelectConfig_lowPower
+g_aSelectConfig_HighQuality_48
+g_aSelectConfig_Lossless_48
+nMaxBitsCfg0_8Band_96k_Max
+nMaxBitsCfg0_8Band_96k_700
+nMaxBitsCfg0_8Band_96k_600
+nMaxBitsCfg0_8Band_96k_500
+nMaxBitsCfg0_8Band_96k_420
+nMaxBitsCfg0_8Band_96k_240
+BitAllocOffsetTable
+BitAllocOffsetTableWS9
+BitAllocOffsetToneTable
+CMFB_PRPD_Proto_Sym_256Tap_50PcOL
+CMFB_PRPD_Proto_Sym_128Tap_50PcOL
+nu_logTable
+nu_q2incr16
+nu_q3incr16
+nu_q4incr16
+nu_q5incr16
+nu_q6incr16
+nu_q7incr16
+nu_q8incr16
+nu_q9incr16
+nu_dq2bit16
+nu_dq3bit16
+nu_dq4bit16
+nu_dq5bit16
+nu_dq6bit16
+nu_dq7bit16
+nu_dq8bit16
+nu_dq9bit16
+g_aPacker_cfg0_HuffLlevame_con_tu_babalao_48000_22_3_sqe_K0
+g_aPacker_cfg0_HuffEcstasy_32_2_sqe_K0_0
+g_aPacker_cfg0_HuffMindwarp_32_7_sqe_k3_1
+g_aPacker_cfg0_HuffHL2Bit2Sqe_0
+g_aPacker_cfg0_HuffBitAlloc_0_1
+g_aPacker_cfg0_HuffBitAlloc_2_3
+g_FixedO1
+g_FixedO2
+g_FixedO3
+g_FixedO4
+AXGR_LIMITQUOTIENTWITHWORDSIZE
+g_axPackerCfg0ComposerTable
+__CTOR_END__
+__DTOR_LIST__
+aptx3EncoderBuildVersion
+g_FrameTypeMap
+g_aPacker_cfg0_Tables_cfg0BitAlloc_8Band
+g_pAxCoreLib
+g_pReportCB
+axCWMs_t
+__end
